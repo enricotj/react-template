@@ -1,0 +1,15 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "Template for a ReactJS project using webpack, babel, typescript, scss, and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "template"
+  ],
+  "author": "enricotj94",
+  "license": "MIT"
+}
