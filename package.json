@@ -4,7 +4,11 @@
   "description": "Template for a ReactJS project using webpack, babel, typescript, scss, and redux",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "bundle": "webpack",
+    "test": "echo \"Error: no test specified\"",
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production",
+    "check-types": "tsc"
   },
   "keywords": [
     "react",
