@@ -1,7 +1,7 @@
 {
   "name": "react-template",
   "version": "1.0.0",
-  "description": "Template for a ReactJS project using webpack, babel, typescript, scss, and redux",
+  "description": "Template for a ReactJS project using webpack, babel, typescript, and css.",
   "main": "index.js",
   "scripts": {
     "bundle": "webpack",
